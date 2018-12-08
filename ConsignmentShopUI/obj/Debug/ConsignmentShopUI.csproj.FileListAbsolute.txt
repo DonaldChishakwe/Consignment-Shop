@@ -1,0 +1,13 @@
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe.config
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.exe
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopUI.pdb
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csprojAssemblyReference.cache
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.ConsignmentShop.resources
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.Properties.Resources.resources
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.cache
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CoreCompileInputs.cache
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.exe
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.pdb
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
+C:\C# Dev\ASP.NET\ConsignmentShopUI\ConsignmentShopUI\obj\Debug\ConsignmentShopUI.csproj.CopyComplete
